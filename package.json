@@ -1,7 +1,7 @@
 {
   "name": "css-spritesmith-tentou",
-  "version": "1.0.2",
-  "description": "## 这是什么",
+  "version": "1.0.3",
+  "description": "spritesmith",
   "main": "lib/css-spritesmith",
   "directories": {
     "test": "test"
